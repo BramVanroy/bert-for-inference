@@ -5,4 +5,5 @@ verify_ssl = true
 
 [packages]
 jupyter = "*"
+torch = "*"
 transformers = "*"

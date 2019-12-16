@@ -11,8 +11,10 @@ Gives an introduction on how to use BERT for inference. Ideal if you want to use
 
 Under construction. Code works but needs comments and more explanation.
 
+# Try notebooks online with binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BramVanroy/bert-for-inference/master)
 
-# Installation
+# Local installation
 1. Clone from GitHub
 2. `pipenv install` inside the cloned directory (where the Pipfile is)
 3. Install the correct [torch version]( https://pytorch.org/get-started/locally/) for your system. You don't need 
