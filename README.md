@@ -11,6 +11,8 @@ Gives an introduction on how to use BERT for inference. Ideal if you want to use
 
 Under construction. Code works but needs comments and more explanation.
 
+# Try notebooks with binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GillesJ/bert-for-inference/master)
 
 # Installation
 1. Clone from GitHub
